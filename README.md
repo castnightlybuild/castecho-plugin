@@ -1,4 +1,4 @@
-# CastEcho plugin
+# CastEcho pluginOLD
 This plugin provide allow use of CastEcho to analyse your code.
 It allows to change build result depending on the analysis of some specified sources.
 
